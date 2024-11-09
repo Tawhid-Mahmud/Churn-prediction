@@ -1,6 +1,5 @@
 entrypoint = "main.py"
 run = ["streamlit", "run", "main.py"]
-
 modules = ["python-3.10"]
 
 hidden = [".pythonlibs", ".streamlit"]
